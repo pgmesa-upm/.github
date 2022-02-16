@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📚⚖ This organization has the purpose of storing all 'pgmesa' projects and contributions related with the Polytechnic University of Madrid (UPM)
+📚 This organization has the purpose of storing all 'pgmesa' projects and contributions related with the Polytechnic University of Madrid (UPM)
 
 <!--
 
